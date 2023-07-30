@@ -4,8 +4,4 @@
 1. Pattern 1 :
 
     
-      1                 1
-      1 2             2 1
-      1 2 3         3 2 1
-      1 2 3 4     4 3 2 1
-      1 2 3 4 5 5 4 3 2 1
+     ![image](https://github.com/AtulBahuguna/Pattern_Problem_CPP/assets/71915012/7e0dab97-3d80-4d14-8b25-f4bc54ceb302)
